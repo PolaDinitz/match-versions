@@ -1,0 +1,19 @@
+{
+  "name": "match-versions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PolaDinitz/match-versions-ext.git"
+  },
+  "author": "Pola Dinitz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PolaDinitz/match-versions-ext/issues"
+  },
+  "homepage": "https://github.com/PolaDinitz/match-versions-ext#readme"
+}
